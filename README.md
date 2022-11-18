@@ -1,5 +1,5 @@
 # For_Loop_on_List_Containing_Multiple_Sub_Lists
-
+ So recently I completed learning python basics from the very start. Now I started practicing how to apply Python to problems. I am starting with a very basics programs with that I can get my basics cleared.
 
 ## Problem Statement 
 1. A list containing multiple sub lists of data record of each student like 
